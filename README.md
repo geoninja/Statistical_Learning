@@ -1,5 +1,5 @@
 # Statistical Learning
-### Repository of R code for all lab exercises in the book                   "An Introduction to Statistical Learning"  
+### Repository of R code for all lab exercises in the book                      "An Introduction to Statistical Learning"  
 
 
 ##### The Stanford Online course, by T. Hastie and R. Tibshirani, was completed on April, 2015.
