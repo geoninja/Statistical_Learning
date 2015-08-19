@@ -19,7 +19,7 @@
 9. Ch.10 (p.401-413) UNSUPERVISED LEARNING: PCA and Clustering (K-Means, Hierarchical)
 
 
-#### List of datasets used in the lab exercises (p.14 of the book):
+#### Datasets used in the lab exercises (p.14 of the book):
 
 
 **Auto**: Gas mileage, horsepower, and other information for cars.  
