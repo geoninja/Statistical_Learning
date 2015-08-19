@@ -22,22 +22,20 @@
 #### List of datasets used in the lab exercises (p.14 of the book):
 
 
-Name      |Description
-__________|_____________________________________________________________________  
-Auto      |Gas mileage, horsepower, and other information for cars.  
-Boston    |Housing values and other information about Boston suburbs.  
-Caravan   |Information about individuals offered caravan insurance.  
-Carseats  |Information about car seat sales in 400 stores.  
-College   |Demographic characteristics, tuition, and more for USA colleges.  
-Default   |Customer default records for a credit card company.  
-Hitters   |Records and salaries for baseball players.  
-Khan      |Gene expression measurements for four cancer types.  
-NCI60     |Gene expression measurements for 64 cancer cell lines.  
-OJ        |Sales information for Citrus Hill and Minute Maid orange juice.  
-Portfolio   |Past values of financial assets, for use in portfolio allocation.  
-Smarket |Daily percentage returns for S&P 500 over a 5-year period.  
-USArrests   |Crime statistics per 100,000 residents in 50 states of USA.  
-Wage      |Income survey data for males in central Atlantic region of USA.  
-Weekly    |1,089 weekly stock market returns for 21 years.  
+**Auto**: Gas mileage, horsepower, and other information for cars.  
+**Boston**: Housing values and other information about Boston suburbs.  
+**Caravan**: Information about individuals offered caravan insurance.  
+**Carseats**: Information about car seat sales in 400 stores.  
+**College**: Demographic characteristics, tuition, and more for USA colleges.  
+**Default**: Customer default records for a credit card company.  
+**Hitters**: Records and salaries for baseball players.  
+**Khan**: Gene expression measurements for four cancer types.  
+**NCI60**: Gene expression measurements for 64 cancer cell lines.  
+**OJ**: Sales information for Citrus Hill and Minute Maid orange juice.  
+**Portfolio**: Past values of financial assets, for use in portfolio allocation.  
+**Smarket**: Daily percentage returns for S&P 500 over a 5-year period.  
+**USArrests**: Crime statistics per 100,000 residents in 50 states of USA.  
+**Wage**: Income survey data for males in central Atlantic region of USA.  
+**Weekly**: 1,089 weekly stock market returns for 21 years.  
 
 ###### *All data sets are available in the ISLR library, with the exception of Boston (part of MASS) and USArrests (part of the base R distribution).*
