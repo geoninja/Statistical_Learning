@@ -22,8 +22,9 @@
 #### List of datasets used in the lab exercises (p.14 of the book):
 
 ---
-Name: "Auto", "Boston"
-Description: "Gas mileage, horsepower, and other information for cars.",
+Name      Description
+Auto      lalala
+Boston    bbbbb
 ---
 
 
